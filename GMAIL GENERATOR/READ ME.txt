@@ -1,0 +1,21 @@
+Welcome to "Gmail Generator" created by: 9socket
+________________________________________________
+
+-PURPOSE:
+
+The purpose of this script is to create possible email combinations for burner accounts.
+Burner meaning, it should NOT be used as a main account and should not be used for anything important.
+This is an opensource script, so feel free to change the code however you like.
+The code may be pretty messy, as I'm generally new to python at the time this was created.
+
+
+-DISCLAMER
+
+These accounts can be very insecure. As there is a randomly generated password, creating your own is reccomended.
+Some of these email usernames may be taken also. This is not a checker, just a generator for possible combinations.
+A phone number and gender will have to be provided by the user, even though they are both optional.
+
+(I don't work with or associate with Google in any way.)
+
+
+note: Once you start generating accounts, it will activate a loop and wont stop, unless it's by the user.
